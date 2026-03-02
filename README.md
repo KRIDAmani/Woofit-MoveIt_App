@@ -14,9 +14,9 @@
 
 <div align="center">
 
-(https://github.com/KRIDAmani/Woofit-MoveIt_App/blob/main/woofitmoveit-demo.mp4)
+[![Watch on LinkedIn](./assets/linkedin-post-preview.png)](https://www.linkedin.com/feed/update/urn:li:activity:7199372392635203584/)
 
-*Démo de l'application WoofIt_MoveIt*
+*Cliquez sur l'image pour voir la démo sur LinkedIn*
 
 </div>
 ---
