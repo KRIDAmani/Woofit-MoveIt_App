@@ -12,10 +12,9 @@
 
 ## 🎥 Demo
 
-<a href="(https://www.linkedin.com/feed/update/urn:li:activity:7199372392635203584/)">
-  <img src="https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
-</a>
-
+<div align="center">
+  <img src=".woofitmoveit-demo.mp4" alt="Demo" width="600"/>
+</div>
 ---
 
 ## À propos
