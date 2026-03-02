@@ -13,7 +13,11 @@
 ## 🎥 Demo
 
 <div align="center">
-  <img src=".woofitmoveit-demo.mp4" alt="Demo" width="600"/>
+
+(https://github.com/KRIDAmani/Woofit-MoveIt_App/blob/main/woofitmoveit-demo.mp4)
+
+*Démo de l'application WoofIt_MoveIt*
+
 </div>
 ---
 
